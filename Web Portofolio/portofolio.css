@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+header {
+    background-color: rgb(188, 32, 32);
+    color: #fff;
+    text-align: center;
+    padding: 2rem;
+}
+#container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+}
+#profile {
+    text-align: center;
+}
+#profile img {
+    width: 200px;
+    height: 200px;
+    border-radius: 0;
+}
+#social {
+    text-align: center;
+    margin-top: 10px;
+}
+#resume {
+    margin-top: 20px;
+}
+#work-samples {
+    margin-top: 20px;
+}
